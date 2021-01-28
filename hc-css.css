@@ -1,0 +1,15 @@
+@media screen and (max-width: 550px) {
+.notion-column {
+    width:96%;padding:0 2%
+}
+}
+.notion-column {
+    max-width:100%;
+}
+.notion-text {
+    max-width:100%
+}
+
+.notion-page__title .notion-semantic-string {
+    white-space:pre-wrap !important;
+}
